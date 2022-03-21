@@ -1,0 +1,465 @@
+*{
+    padding: 0px;
+    margin: 0px;
+
+}
+.container{
+    display: flex;
+    background-color: #181818;
+    justify-content: space-between;
+    
+
+    
+
+
+}  
+.navbar{
+    display: flex;
+    height: 100px;
+    width: 100%;
+
+
+}  
+.nav1{
+    height: 100px;
+    width: 10%;
+    padding-top: 15px;
+    padding-left: 66px;
+}
+.navmiddle{
+    height: 100px;
+    width: 50%;
+    padding-top: 40px;
+    word-spacing: 30px;
+    
+
+}
+.nav2{
+    height: 100px;
+    width: 40%;
+    word-spacing: 30px;
+    padding-top: 6px;
+
+
+}
+.navmiddle a{
+    transition: font-size 0.3s ease-in-out;
+    font-size: 1rem;
+    font-weight: 300;
+    color: #fff;
+    text-transform: uppercase;
+    text-align: center;
+    text-decoration: none;
+    
+
+}
+.nav2 a{
+    transition: font-size 0.3s ease-in-out;
+    font-size: 1rem;
+    font-weight: 300;
+    color: #fff;
+    text-transform: uppercase;
+    text-align: center;
+    text-decoration: none;
+
+}
+
+
+.logo {
+    height: 70px;
+    width: 70px;
+    position: absolute;
+    margin-top: 22px;
+ 
+}
+.block1{
+    width: 100%;
+    height: 500px;
+    background-color: #fff;
+    padding: auto;
+}
+.block1 p{
+    font-size: 85px;
+    color: #000;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    letter-spacing: -5px;
+    padding-left: 110px;
+    line-height: 72px;
+    word-spacing: 3px;
+}
+.block-sub{
+    width: 84%;
+    margin-top: -68px;;
+    padding-left: 105px;
+    
+}
+
+
+.section{
+    display: flex;
+    margin: 0;
+    max-width: 100%;
+    justify-content: start;
+    
+
+    
+    
+}
+.lambo1 img{
+    width: 700px;
+    height: 550px;
+    clip-path: polygon(18% 0, 100% 0, 66% 100%, 17% 100%);
+    margin-left: -125px;
+    
+    
+
+
+
+}
+.lambo2 img{
+    width: 700px;
+    height: 550px;
+    clip-path: polygon(43% 0, 100% 0, 95%  100%, 0 100%);
+    margin-left: -333px;;
+
+
+
+}
+.lambo3 img{
+    width: 700px;
+    clip-path: polygon(39% 0, 100% 0, 100% 100%, 0 100%);
+    height: 550px;
+    margin-left:  -287px;
+}
+.black{
+    position: absolute;
+    width: 1200px;
+    width: 1100px;
+    clip-path: polygon(0% 0, 82% 0, 60% 98%, 0 100%);
+    background-color:#000;
+    opacity: .8;
+    border: solid;}
+    
+
+    .text1{
+        width: 700px;
+        height: 550px;
+        color: #fff;
+        padding-left: 125px;
+
+    }
+    .text2{
+
+        position: absolute;
+        bottom: 278px;
+        left: 104px;
+        font-size: 50PX;
+        font-family: sans-serif;
+        color: white;
+        }
+       
+
+        .based1{
+            font-family: sans-serif;
+            font-size: 2rem;
+            line-height: 1.3;
+            letter-spacing: 0.64px;
+            margin-left:-70px;
+            margin-top: -70px;
+        
+        }
+        .text3{
+            color: white;
+            position: absolute;
+            top: 370px;
+            left: 180px;
+            
+        }
+        .text4{
+            color: #fff;
+            position: absolute;
+            top: 395px;
+            left: 192px;
+
+        }
+        .text{
+            font-size: 20px;
+            font-weight: 300;
+            line-height: 1.44;
+            letter-spacing: 0.32px;
+            color: #fff;
+        }  
+        .section1{
+            height: auto;
+            width: 100%; 
+            justify-content: start;
+            
+        }
+        .lambo4{
+            width: 100%;
+            margin-top: 20px;
+        }
+       .state{
+        margin-top: -377px;
+        position: relative;
+       }
+       .tt1{
+        position: absolute;
+        font-family: sans-serif;
+        font-size: 30px; 
+        top: 9px;
+        left: 100px;    
+        font-weight: lighter; 
+
+       }
+       .tt2{
+        position: absolute;
+        font-family: sans-serif;
+        font-size: 70px;  
+        top: 35px;
+        left: 100px;       
+       }
+       .tt3{
+        position: absolute;
+        font-family: sans-serif;
+        font-size: 70px;  
+        top: 110px;
+        left: 100px;       
+       }
+       .hexa{
+        margin-top: 200px;
+        margin-left: 88px;
+       }
+       .section2{
+        height: auto;
+        width: 100%; 
+        justify-content: start;
+       }
+       .lambo5{
+           width: 100%;
+           margin-top: 200px;
+
+       }
+       .text5{
+        position: absolute;
+        top: 2019px;
+        left: 120px;
+        font-size: 26px;
+        color: rgb(224, 219, 219);
+        font-family: sans-serif;
+   
+       }
+       .text6{
+        position: absolute;
+        top: 2070px;
+        left: 120px;
+        font-size: 33px;
+        color:white;
+        font-family: sans-serif; 
+        font-weight: 750;
+       }
+       .section3{
+           width: 100%;
+
+       }
+       .section3 h3{
+        margin-top: 80px;
+        padding-left: 120px;
+        font-family: sans-serif;
+        font-size: 30px;
+        
+       }
+       .section3 h1{
+        font-size:120PX;
+        font-weight: bold;
+        font-family: sans-serif;
+        line-height: 0.9;
+        letter-spacing: -0.348rem;
+        margin-left: 120px;
+        color: #202020;
+        margin-top:32px;
+       }
+       .lether{
+           width: 80%;
+           margin-left: 120px;
+           margin-top: 70px;
+
+
+       }
+       .ttt{
+        padding-left: 120px;
+        margin-top: 70px;
+       }
+       .section4{
+           display: flex;
+           justify-content: space-around;
+           padding-left: 67px;
+       }
+       .paragraph h2{
+        margin-top: 1rem;
+    font-size: 35px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 3.1;
+    padding-left: 10px;
+    }
+    .paragraph p{
+        padding-left: 10px;
+    font-size: 19px;
+    font-weight: 300;
+    line-height: 30px;
+    }
+    .read{
+        height: 50px;
+        padding-inline: 50px;
+        background-color: white;
+        margin-right: 162px;
+    }
+    .read1{
+        text-decoration: none;
+        color:black;
+    }
+    .section5{
+        display: flex;
+         margin-top: 78px;
+
+    }
+    .cover1{
+        width: 77%;
+        padding-left: 105px;
+    }
+    .block1{
+       
+        display: flex;
+        flex-direction: column;
+        justify-content: space-evenly;
+    }
+    .cover{
+       
+    }
+    .ddd{
+        
+        text-transform: uppercase;
+        font-size: 14px;
+        font-weight: 300;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1;
+        letter-spacing: 2px;
+        color: #202020;
+    }
+    .paragraph2 h2 {
+        
+        
+
+        
+    }
+    .rea{
+       
+        height: 50px;
+        padding-inline: 50px;
+        background-color: white;
+        margin-right: 162px;
+    }
+    .rea1{
+        text-decoration: none;
+        color:black;
+    }
+.button2{
+    padding-bottom:  201px;
+
+
+}
+#qqq{
+    background-color: #000;
+    height: 52px;
+    padding-inline: 78px;
+    
+}
+
+ #qqq a{
+     color: #fff;
+ }   
+
+ .section6{
+     
+     text-align: center;
+     margin-left: 256px;
+     margin-top: -144px;
+ }
+.last-section{
+    width: 100%;
+    height: 305px;
+    background-color:rgb(24,24,24);
+    margin-top: 92px;
+
+}
+.table{
+    display: flex;
+    color: white;
+    width: 60%;   
+}
+
+.table1{
+    margin-left: 20px;
+    line-height: 2px;
+    font-family: sans-serif;   
+    padding-top: 62px;
+    padding-bottom: 45px;
+}
+
+.table2{
+    margin-left: 20px;
+    line-height: 2px;
+    font-family: sans-serif;  
+}
+.social{
+    position: absolute;
+    right: 87px;
+    top: 4357px;
+    cursor: pointer;
+
+}
+.lastpara{
+    color: white;
+    font-family: sans-serif;
+    width: 90%;
+    margin-left: 30px;
+    font-size: 17px;
+    opacity: 90%;
+    margin-top: 40px;
+}
+.copy{
+    color: white;
+    font-family:sans-serif;
+    margin-left: 25px;
+    margin-top: 55px;
+
+}
+ .footerdiv{
+    
+    width: 100%;
+    height: 50px;
+   background-color:black;
+  
+   
+
+}
+.footertext{
+    font-family: sans-serif;
+    font-weight: 200;
+    margin-left: 20px;
+    color: white;
+}
+.footer123{
+   font-family: sans-serif;
+   font-weight: 200;
+margin-left: 500px;
+color: white;
+
+}
+    
+    
+
+    
